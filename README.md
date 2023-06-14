@@ -1,5 +1,4 @@
 # smartlocation
-=====================
 [![Release][jitpack-svg]][jitpack-link]
 
 This library is cloned  [smart-location-lib](https://github.com/mrmans0n/smart-location-lib) library, update new version of play-services-location.
@@ -14,7 +13,7 @@ This library is cloned  [smart-location-lib](https://github.com/mrmans0n/smart-l
 ```
 2) Add a dependency on the library:
 ```groovy
-         implementation 'com.github.mobilefractal:smartlocation:1.0.0'
+         implementation 'com.github.mobilefractal:smartlocation:1.0.2'
 ```
 ## Contact
 - **Email**: mobilefractal1@gmail.com
