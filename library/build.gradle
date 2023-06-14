@@ -4,13 +4,13 @@ plugins {
 
 android {
     namespace 'vn.fractal.library'
-    compileSdk 33
+    compileSdk 30
 
     defaultConfig {
         minSdk 21
         targetSdk 30
         versionCode 1
-        versionName "1.0.0"
+        versionName "1.0.3"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
     }
@@ -30,7 +30,6 @@ android {
 dependencies {
 
     implementation 'androidx.appcompat:appcompat:1.6.1'
-    implementation 'com.google.android.material:material:1.9.0'
     implementation 'com.google.android.gms:play-services-location:21.0.1'
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'

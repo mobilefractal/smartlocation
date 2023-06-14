@@ -13,7 +13,7 @@ This library is cloned  [smart-location-lib](https://github.com/mrmans0n/smart-l
 ```
 2) Add a dependency on the library:
 ```groovy
-         implementation 'com.github.mobilefractal:smartlocation:1.0.2'
+         implementation 'com.github.mobilefractal:smartlocation:1.0.3'
 ```
 ## Contact
 - **Email**: mobilefractal1@gmail.com
